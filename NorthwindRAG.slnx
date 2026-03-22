@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NorthwindRAG.Api/NorthwindRAG.Api.csproj" />
+    <Project Path="src/NorthwindRAG.Core/NorthwindRAG.Core.csproj" />
+    <Project Path="src/NorthwindRAG.Infrastructure/NorthwindRAG.Infrastructure.csproj" />
+    <Project Path="src/NorthwindRAG.SemanticKernel/NorthwindRAG.SemanticKernel.csproj" />
+  </Folder>
+</Solution>

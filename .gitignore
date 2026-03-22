@@ -1,0 +1,17 @@
+**/bin/
+**/obj/
+**/.vs/
+src/northwind-chat/node_modules/
+src/northwind-chat/dist/
+src/northwind-chat/.angular/
+src/NorthwindRAG.Api/appsettings.Development.json
+*.user
+.playwright-cli/
+.playwright-mcp/
+.claude/
+chat-verification.png
+image.png
+test-ssl/
+test-openai.ps1
+check-firewall.ps1
+check-nuget.ps1
